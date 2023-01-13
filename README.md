@@ -1,4 +1,4 @@
-# Upload Files
+# Razor Pages - Upload Files
 This is a Razor Pages example of a service to upload files or images
 
 Based on the YouTube video below by Sameer Saini
