@@ -6,8 +6,8 @@ Based on the YouTube video below by Sameer Saini
 [File Upload In Asp.net Core - How To Save A File In C# and ASP.NET Core Razor Pages](https://www.youtube.com/watch?v=hcoKLORWbjY&ab_channel=SameerSaini)
 
 # To use this in your project you need:-
-1. Services.IImageUploadService
-2. Services.ImageUploadService
+1. Services.IImageUploadService.cs
+2. Services.ImageUploadService.cs
 3. Index.cshtml
 4. A folder in wwwroot called images
 
